@@ -1,0 +1,3 @@
+C:/Users/monge/Documents/GitHub/TrabajoHalloween/cmake-build-debug/CMakeFiles/TrabajoHalloween.dir
+C:/Users/monge/Documents/GitHub/TrabajoHalloween/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/monge/Documents/GitHub/TrabajoHalloween/cmake-build-debug/CMakeFiles/rebuild_cache.dir
