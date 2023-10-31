@@ -1,0 +1,3 @@
+C:/Users/krave/OneDrive/Documentos/GitHub/TrabajoHalloween/Dima/cmake-build-debug/CMakeFiles/Dima.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/TrabajoHalloween/Dima/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krave/OneDrive/Documentos/GitHub/TrabajoHalloween/Dima/cmake-build-debug/CMakeFiles/rebuild_cache.dir
